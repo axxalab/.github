@@ -1,38 +1,36 @@
-# AXXA Lab
+# Rafael PsyIk
 
-**AXXA Lab** is a Human-AI interaction lab building tools, systems and workflows for intelligent productivity, creative automation and digital execution.
+Founder of **AXXA Lab** - building Human-AI systems, productivity tools, Obsidian plugins, creative automation workflows and design-driven digital products.
 
-We design and develop products that connect human intention, context, focus, time, tasks, routines and AI agents into practical systems.
+I work at the intersection of:
 
-## What We Build
-
-- AI-native productivity tools
-- Obsidian plugins
-- Local-first workflows
-- Creative automation systems
-- Prompt engineering frameworks
+- AI-assisted productivity
+- Human-AI interaction
+- Obsidian plugin development
 - Design systems
-- Human-AI interfaces
-- Intelligent execution layers
+- Automation
+- Creative tools
+- UX strategy
+- Digital product architecture
 
-## Core Projects
+Currently building the **AXXA OS** ecosystem: a modular layer of tools designed to connect tasks, routines, focus, time tracking, personal context and intelligent agents.
 
-### AXXA OS
+## Current Focus
 
-A modular Human-AI operating layer designed to connect tasks, routines, focus, energy, projects, personal context and intelligent agents.
-
-### AXXA Focus
-
-A productivity and time-tracking system built around focus sessions, pomodoro, stopwatch, tasks, projects and contextual execution.
-
-### AXXA Plugins
-
-A collection of Obsidian plugins designed for local-first productivity, code editing, AI-assisted writing, time tracking and knowledge workflows.
+- `AXXA OS`
+- `AXXA Focus`
+- Obsidian plugins
+- AI copilots for local-first workflows
+- Prompt systems
+- Productivity automation
+- Human-centered AI interfaces
 
 ## Philosophy
 
-The future of software is not just apps with AI features.
+Tools should not only store information.
 
-The future is contextual systems where humans and AI collaborate to decide, organize and execute better.
+They should help humans decide, focus and execute.
 
-AXXA Lab exists to build that layer.
+The next evolution of software is not just AI inside apps.
+
+It is a new operating layer between human intention, context and action.
